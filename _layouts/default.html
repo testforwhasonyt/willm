@@ -21,41 +21,8 @@
       <a href="/about" class="btn">About</a>
       <a href="/art" class="btn">Art</a>
       <a href="/community" class="btn">Community</a>
-      <a href="/contact" class="btn">Contact</a>
       <a href="/partners" class="btn">Partners</a>
-<div class="dropdown">
-<button onclick="myFunction()" class="dropbtn">More
-</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="https://discord.me/whas">Discord</a>
-  </div>
-</div>
-
-<script>
-/* When the user clicks on the button, 
-toggle between hiding and showing the dropdown content */
-function myFunction() {
-    document.getElementById("myDropdown").classList.toggle("show");
-}
-
-// Close the dropdown if the user clicks outside of it
-window.onclick = function(event) {
-  if (!event.target.matches('.dropbtn')) {
-
-    var dropdowns = document.getElementsByClassName("dropdown-content");
-    var i;
-    for (i = 0; i < dropdowns.length; i++) {
-      var openDropdown = dropdowns[i];
-      if (openDropdown.classList.contains('show')) {
-        openDropdown.classList.remove('show');
-      }
-    }
-  }
-}
-</script>
-
-</body>
-</html>
+      <a href="/contact" class="btn">Contact</a>
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
