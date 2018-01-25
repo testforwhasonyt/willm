@@ -16,5 +16,6 @@ willsinventory.ga |
 Email [`pages@willm.ga`](mailto:pages@willm.ga) for more information.
 <p>I accept the following currencies:</p>
 - Amazon/Google Play gift cards
+
 - PayPal/Bitcoin 
 
