@@ -11,7 +11,8 @@ Redirects |
 dawae.ga |
 willsinventory.ga |
 
-**NEW** Want a custom page on Will's Inventory?
+### Custom Page
+   Want a custom page on Will's Inventory?
 Email [`pages@willm.ga`](mailto:pages@willm.ga) for more information.
 <p>I accept the following currencies:</p>
 - Amazon/Google Play gift cards
