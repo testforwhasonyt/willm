@@ -22,3 +22,4 @@ Contact WillHasAwesomeShoes today at: [will@willm.ga](mailto:will@willm.ga)
 ### More Info
 - Redirecting domains are [dawae.ga](https://dawae.ga) & [willsinventory.ga](https://willsinventory.ga) *(share with friends to link them here)*
 - Apply for partner at [Partner Page](partners)
+<div style="line-height:16px;text-align:center;"><a href="https://www.tracemyip.org/tools/website-visitors-counter-traffic-tracker-statistics/" ><img src="//s2.tracemyip.org/tracker/1320/4684NR-IPIB/82769/3/njsUrl/" alt="ip" style="border:0px;"></a></div>
