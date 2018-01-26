@@ -22,10 +22,3 @@ Contact WillHasAwesomeShoes today at: [will@willm.ga](mailto:will@willm.ga)
 ### More Info
 - Redirecting domains are [dawae.ga](https://dawae.ga) & [willsinventory.ga](https://willsinventory.ga) *(share with friends to link them here)*
 - Apply for partner at [Partner Page](partners)
-
-<div class="dropdown">
-<button onclick="myFunction()" class="dropbtn">Dropdown</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="/about">About</a>
-  </div>
-</div>
