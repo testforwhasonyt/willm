@@ -14,6 +14,16 @@ No partners yet.  Apply below.
 - `At Least 75+ Discord server members`
 - `Social media with 50+ followers`
 
+*If you can't follow/join all of these, it's ok! We just expect at least 1.*
+
+[x] Subscribe to my [YouTube channel](https://youtube.com/willhasawesomeshoes)
+
+[x] Join my [Discord](https://discord.me/whas)
+
+[x] Follow my [Instagram](https://instagram.com/willonyt)
+
+[x] Follow my [Twitter](https://twitter.com/willmccrudden)
+
 **How to Apply:**
 
 Fill out the form at [https://goo.gl/XJMZw3](http://www.123formbuilder.com/form-3354194/Contact-Lead-Form).
