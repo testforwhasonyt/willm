@@ -4,7 +4,8 @@ Current partners:
 ![Image](https://dynocc.tk/files/alone.png)
 No partners yet.  Apply below.
 
-.
+<div class="aligncenter" style="width:125px;"><hr /></div>
+
 
 **Partner Requirements:** 
 
@@ -16,13 +17,15 @@ No partners yet.  Apply below.
 
 *If you can't follow/join all of these, it's ok! We just expect at least 1.*
 
-[x] Subscribe to my [YouTube channel](https://youtube.com/willhasawesomeshoes)
+- `Subscribe to my`[`YouTube channel`](https://youtube.com/willhasawesomeshoes)
 
-[x] Join my [Discord](https://discord.me/whas)
+- `Join my`[`Discord`](https://discord.me/whas)
 
-[x] Follow my [Instagram](https://instagram.com/willonyt)
+- `Follow my`[`Instagram`](https://instagram.com/willonyt)
 
-[x] Follow my [Twitter](https://twitter.com/willmccrudden)
+- `Follow my`[`Twitter`](https://twitter.com/willmccrudden)
+
+<div class="aligncenter" style="width:125px;"><hr /></div>
 
 **How to Apply:**
 
@@ -31,9 +34,14 @@ Fill out the form at [https://goo.gl/XJMZw3](http://www.123formbuilder.com/form-
 **Partner Benefits**
 - Custom Page for FREE
 
+<div class="aligncenter" style="width:125px;"><hr /></div>
+
 *Normal Users:*
-<p>I accept the following currencies:</p>
+I accept the following currencies:
+
 - Amazon/Google Play gift cards
-- PayPal/Bitcoin 
+
+- PayPal/Bitcoin
+ 
 Email [`pages@willm.ga`](mailto:pages@willm.ga) for more information.
 <a name="benefits"></a> 
