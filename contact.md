@@ -14,7 +14,7 @@
 <div class="aligncenter" style="width:125px;"><hr /></div>
 
 ### Twitter (Tweet or DM)
-[Tweet me](https://twitter.com/willhasawesomeshoes) or [DM me](https://twitter.com/willhasawesomeshoes) on Twitter. `(@willmccrudden)`. *Again, spamming will result in a block.*
+[Tweet me](https://twitter.com/willmccrudden) or [DM me](https://twitter.com/willmccrudden) on Twitter. `(@willmccrudden)`. *Again, spamming will result in a block.*
 
 <div class="aligncenter" style="width:125px;"><hr /></div>
 
