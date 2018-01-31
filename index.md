@@ -28,3 +28,28 @@ Contact WillHasAwesomeShoes today at: [will@willm.ga](mailto:will@willm.ga)
 ### More Info
 - Redirecting domains are [dawae.ga](https://dawae.ga) & [willsinventory.ga](https://willsinventory.ga) *(share with friends to link them here)*
 - Apply for partner at [Partner Page](partners)
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+
+    <a href="#myPopup" data-rel="popup" data-position-to="window">
+    <img src="https://i.imgur.com/ePwvUg6.jpg" alt="Skaret View" style="width:500px;"></a>
+
+    <div data-role="popup" id="myPopup">
+      <p>Are you a partner?</p> 
+      <a href="#pageone" data-rel="back" class="ui-btn ui-corner-all ui-shadow ui-btn-a ui-icon-delete ui-btn-icon-notext ui-btn-right">Close</a> <a href="http://willm.ga/partners">Yes</a>|<a href="http://willm.ga/partners#benefits">No</a>
+    </div>
+  </div>
+
+  </div>
+</div> 
+
+</body>
+</html>
