@@ -29,7 +29,7 @@ Contact WillHasAwesomeShoes today at: [will@willm.ga](mailto:will@willm.ga)
 - Redirecting domains are [dawae.ga](https://dawae.ga) & [willsinventory.ga](https://willsinventory.ga) *(share with friends to link them here)*
 - Apply for partner at [Partner Page](partners)
 
-<html>
+<center><html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
@@ -44,10 +44,11 @@ Contact WillHasAwesomeShoes today at: [will@willm.ga](mailto:will@willm.ga)
     <div data-role="popup" id="myPopup">
       <p>Are you a partner?</p> 
       <a href="#pageone" data-rel="back" class="ui-btn ui-corner-all ui-shadow ui-btn-a ui-icon-delete ui-btn-icon-notext ui-btn-right">Close</a> <a href="http://willm.ga/partners">Yes</a>|<a href="http://willm.ga/partners">No</a>
-    </div> 
+    </div>
 
   </div>
 </div> 
 
 </body>
 </html>
+</center>
