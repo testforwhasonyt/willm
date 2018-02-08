@@ -1,4 +1,4 @@
-<body bgcolor="#8A2BE2">
+<body bgcolor="6F00FF">
 </body>
   
 # Welcome to Will's inventory! ![Image](https://www.concursive.com/show/matt-r/signature-image/airplane-icon-100x100.png)
