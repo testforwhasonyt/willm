@@ -28,15 +28,5 @@ Contact WillHasAwesomeShoes today at: [will@willm.ga](mailto:will@willm.ga)
 ### More Info
 - Redirecting domains are [dawae.ga](https://dawae.ga) & [willsinventory.ga](https://willsinventory.ga) *(share with friends to link them here)*
 - Apply for partner at [Partner Page](partners)
-<!--FORM BELOW-->
-<div style="float: right; width 100px">
-<form action="mailto:issue@willm.ga" method="GET" enctype="text/plain" name="Site Issue"></form>
-Site Issue?/Feature Request? Let me know.<br>
-<input type="radio" value="Issue">Issue<br>
-<input type="radio" value="Feature">Feature<br>
-More information:<br>
-<input type="text" size="20" name="formdetails"><br>
-<input type="submit" value="Report issue">
-</div>
-<!--FORM Above---->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mmmcRTeJh4w?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
