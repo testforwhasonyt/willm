@@ -1,4 +1,4 @@
-  # Welcome to Will's inventory! ![Image](https://www.concursive.com/show/matt-r/signature-image/airplane-icon-100x100.png)
+# Welcome to Will's inventory! ![Image](https://www.concursive.com/show/matt-r/signature-image/airplane-icon-100x100.png)
 
 This is my website where I store things! Check out some of my projects below!
 - `ROWurBUX` - Check it out [here](http://rowurbux.weebly.com)
