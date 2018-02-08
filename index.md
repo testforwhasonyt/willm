@@ -1,4 +1,7 @@
-
+<!DOCTYPE html>
+<html>
+<body bgcolor="#8A2BE2">
+  
 # Welcome to Will's inventory! ![Image](https://www.concursive.com/show/matt-r/signature-image/airplane-icon-100x100.png)
 
 This is my website where I store things! Check out some of my projects below!
@@ -30,3 +33,8 @@ Contact WillHasAwesomeShoes today at: [will@willm.ga](mailto:will@willm.ga)
 - Apply for partner at [Partner Page](partners)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mmmcRTeJh4w?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+</body>
+</html>
+
