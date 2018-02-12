@@ -1,13 +1,6 @@
 # Welcome to Will's inventory! ![Image](https://www.concursive.com/show/matt-r/signature-image/airplane-icon-100x100.png)
 $(document).ready(function(){
 
-/*! Fades in page on load */
-$('body').css('display', 'none');
-$('body').fadeIn(500);
-
-});
-
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
